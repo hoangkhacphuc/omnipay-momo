@@ -1,5 +1,5 @@
 {
-    "name": "phpviet/omnipay-momo",
+    "name": "hoangkhacphuc/omnipay-momo",
     "type": "library",
     "description": "Thư viện hổ trợ tích hợp cổng thanh toán MoMo.",
     "keywords": [
